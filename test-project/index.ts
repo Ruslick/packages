@@ -1,0 +1,1 @@
+import {getSentryConfig, withSentry} from "test-package-ruslan-123"
