@@ -9,6 +9,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "test-package-ruslan-123": "^1.0.1"
+    "test-package-ruslan-123": "^1.0.3"
   }
 }

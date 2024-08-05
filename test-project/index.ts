@@ -1,1 +1,4 @@
-import {getSentryConfig, withSentry} from "test-package-ruslan-123"
+import {number} from "test-package-ruslan-123"
+
+
+console.log(number);
